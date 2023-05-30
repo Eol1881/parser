@@ -1,3 +1,9 @@
+# Users data files
+data-page-*
+
+# Video folders
+videos*/
+
 # Logs
 logs
 *.log

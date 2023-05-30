@@ -1,1 +1,3 @@
 # parser
+
+This is a node.js script that parses a text file with HTML and finds GitHub usernames of students. Then it creates links to each student's cv video, downloads them from YouTube, and saves to a selected folder with a chosen name. The script is easy to use and allows to configure the input file and the final destination folder for videos. The example-data-file.txt is provided as an example.
